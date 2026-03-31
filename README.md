@@ -20,7 +20,7 @@ It works by directly modifying system files such as `/etc/passwd` and `/etc/grou
 ---
 
 ## Usage
-1. Run the script as root:  bash
+1. Run the script as root:  
 sudo ./your_script.sh
 
 ## How It Works
